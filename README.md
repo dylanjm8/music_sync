@@ -9,3 +9,4 @@ A project to label and sync metadata to mp3 files and a workaround for spotdl/yt
 ```sh
   fetch_music_urls "C:\Path to spotdl json file containing song metadata" 
 ```
+(downloads mp3 files in current path)
