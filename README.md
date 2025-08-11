@@ -1,5 +1,5 @@
 # music_sync
-A project to label and sync metadata to mp3 files
+A project to label and sync metadata to mp3 files and a workaround for spotdl/yt-dlp download error.
 
 ## Generate Playlist Metadata
 ```sh
