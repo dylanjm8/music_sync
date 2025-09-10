@@ -1,6 +1,6 @@
 # music_sync
 A project to label and sync metadata to mp3 files and a workaround for spotdl/yt-dlp download error.
-
+Add spotdl and fetchmusic scripts to PATH to execute commands in powershell/cmd
 ## Generate Playlist Metadata
 ```sh
   spotdl save PLAYLIST_URL --save-file example.spotdl
